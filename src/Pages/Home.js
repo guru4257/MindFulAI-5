@@ -113,7 +113,7 @@ const Home = () => {
             <div style={{borderBottomRightRadius:"50px"}}>
             <div>
               <h4 style={{ color: "white" }}>
-                <strong>World Class Education</strong>
+                <strong>World Class Connection</strong>
               </h4>
             </div>
             <div style={{ marginTop: "4%" }}>
@@ -127,7 +127,7 @@ const Home = () => {
                 }}
               >
                 <strong>
-                  World’s Top Corporate Monsters on<br></br> Sri Eshwar{" "}
+                  World’s Top Corporate Minds on<br></br> Idea's Inventory{" "}
                 </strong>
               </h1>
             </div>
